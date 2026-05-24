@@ -10,7 +10,7 @@ Actualmente, la aplicación se encuentra en fase de desarrollo local. El acceso 
 * **Operaciones CRUD:** Funcionalidad completa para crear, leer, actualizar y eliminar notas.
 * **Atributos de Nota:** Cada registro incluye un título, contenido y la fecha automática de creación o modificación.
 * **Persistencia de Datos:** Vinculación relacional entre las notas y el ID del usuario propietario.
-* **Interfaz de Usuario:** Diseño minimalista con soporte nativo para temas oscuros y lógica dinámica mediante JavaScript.
+* **Interfaz de Usuario:** Diseño minimalista mediante JavaScript.
 
 ## Tecnologías Utilizadas
 * **Backend:** Python / Flask (Manejo de rutas y lógica de servidor).
